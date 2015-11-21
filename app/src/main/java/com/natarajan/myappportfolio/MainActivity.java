@@ -22,12 +22,12 @@ public class MainActivity extends AppCompatActivity {
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
-        btn1 = (Button) findViewById(R.id.button1);
-        btn2 = (Button) findViewById(R.id.button2);
-        btn3 = (Button) findViewById(R.id.button3);
-        btn4 = (Button) findViewById(R.id.button4);
-        btn5 = (Button) findViewById(R.id.button5);
-        btn6 = (Button) findViewById(R.id.button6);
+        btn1 = (Button) findViewById(R.id.mediaBtn);
+        btn2 = (Button) findViewById(R.id.scoresBtn);
+        btn3 = (Button) findViewById(R.id.libBtn);
+        btn4 = (Button) findViewById(R.id.buildBigBtn);
+        btn5 = (Button) findViewById(R.id.xyzBtn);
+        btn6 = (Button) findViewById(R.id.capBtn);
 
 
        /* FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
